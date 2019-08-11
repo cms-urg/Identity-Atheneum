@@ -7,6 +7,8 @@
 
 Easy to use data storage and authorization service for developers.
 
+Full documentation can be found [here](https://github.com/junthehacker/Identity-Atheneum/wiki),
+
 ## Installation
 
 ### System Requirements
