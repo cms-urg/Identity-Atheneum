@@ -1,0 +1,13 @@
+port: 8080
+host_root: http://localhost:8080
+app_secret: test
+redis:
+  host: localhost
+  port: 6379
+mongo:
+  url: mongodb://localhost:27017/ia
+master_key: admin
+identity_providers:
+  - type: local
+    name: local_provider
+    display_name: Local IdP
